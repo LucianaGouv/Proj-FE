@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Minha página</title>
-</head>
-<body>
+Projeto01: DESENVOLVIMENTO WEB FRONTEND
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
+Projeto desenvolvimento web frontend, onde o objetivo é criar uma página web simples utilizando HTML e CSS. O projeto inclui a criação de um arquivo HTML para estruturar o conteúdo da página e um arquivo CSS para estilizar a aparência da página. O projeto também envolve a inclusão de imagens e links para tornar a página mais interativa e visualmente atraente.
